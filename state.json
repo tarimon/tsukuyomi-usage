@@ -1,0 +1,77 @@
+{
+  "icons": {
+    "muse": {
+      "file": "icon-muse.b64",
+      "stamp": "e8bbf5de65e6",
+      "file_96": "icon-muse-96.b64",
+      "file_64": "icon-muse-64.b64"
+    },
+    "codex": {
+      "file": "icon-codex.b64",
+      "stamp": "1ab4d8b16c6b",
+      "file_96": "icon-codex-96.b64",
+      "file_64": "icon-codex-64.b64"
+    },
+    "openai": {
+      "file": "icon-openai.b64",
+      "stamp": "9db64f2b4ff2",
+      "file_96": "icon-openai-96.b64",
+      "file_64": "icon-openai-64.b64"
+    }
+  },
+  "services": [
+    {
+      "id": "muse",
+      "kind": "weekly",
+      "name": "Muse",
+      "used_pct": 18,
+      "remain_pct": 82,
+      "reset_label": "11月17日 12:19",
+      "note": "追加トークン 20億 残",
+      "reset_at": "2026-11-17T12:19:00+09:00"
+    },
+    {
+      "id": "codex_5h",
+      "kind": "window",
+      "name": "Codex 5時間",
+      "used_pct": 1,
+      "remain_pct": 99,
+      "reset_label": "11月12日 22:38",
+      "reset_at": "2026-11-12T22:38:00+09:00"
+    },
+    {
+      "id": "codex_weekly",
+      "kind": "weekly",
+      "name": "Codex 週間",
+      "used_pct": 9,
+      "remain_pct": 91,
+      "reset_label": "11月15日 22:52",
+      "reset_at": "2026-11-15T22:52:00+09:00"
+    },
+    {
+      "id": "claude_code",
+      "kind": "credit",
+      "name": "Claude Code",
+      "remain_pct": 39.5,
+      "balance_label": "$15.79",
+      "credit_total_label": "$40"
+    },
+    {
+      "id": "openai",
+      "kind": "credit",
+      "name": "OpenAI API",
+      "remain_pct": 90.3,
+      "balance_label": "約$9.03",
+      "credit_total_label": "$10"
+    },
+    {
+      "id": "xai",
+      "kind": "credit",
+      "name": "xAI API",
+      "remain_pct": 81.9,
+      "balance_label": "約$4.09",
+      "credit_total_label": "$5.00"
+    }
+  ],
+  "updated_at": "2026-11-12T21:30:20+09:00"
+}

@@ -25,10 +25,10 @@
       "kind": "weekly",
       "name": "Muse",
       "note": "追加トークン 20億 残",
-      "remain_pct": 80,
+      "remain_pct": 79,
       "reset_at": "2026-11-17T12:19:00+09:00",
       "reset_label": "11月17日 12:19",
-      "used_pct": 20
+      "used_pct": 21
     },
     {
       "id": "codex_5h",
@@ -73,5 +73,5 @@
       "remain_pct": 81.9
     }
   ],
-  "updated_at": "2026-11-13T09:31:58+09:00"
+  "updated_at": "2026-11-13T12:30:37+09:00"
 }

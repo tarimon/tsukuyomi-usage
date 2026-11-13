@@ -34,10 +34,10 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "remain_pct": 99,
-      "reset_at": "2026-11-13T13:27:00+09:00",
-      "reset_label": "11月13日 13:27",
-      "used_pct": 1
+      "remain_pct": 100,
+      "reset_at": "2026-11-13T18:52:00+09:00",
+      "reset_label": "11月13日 18:52",
+      "used_pct": 0
     },
     {
       "id": "codex_weekly",
@@ -73,5 +73,5 @@
       "remain_pct": 81.9
     }
   ],
-  "updated_at": "2026-11-13T12:30:37+09:00"
+  "updated_at": "2026-11-13T14:30:36+09:00"
 }

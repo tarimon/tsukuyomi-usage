@@ -35,8 +35,8 @@
       "kind": "window",
       "name": "Codex 5時間",
       "remain_pct": 100,
-      "reset_at": "2026-11-14T10:52:00+09:00",
-      "reset_label": "11月14日 10:52",
+      "reset_at": "2026-11-14T11:52:00+09:00",
+      "reset_label": "11月14日 11:52",
       "used_pct": 0
     },
     {
@@ -57,12 +57,12 @@
       "remain_pct": 39.5
     },
     {
-      "balance_label": "約$9.03",
+      "balance_label": "約$8.98",
       "credit_total_label": "$10",
       "id": "openai",
       "kind": "credit",
       "name": "OpenAI API",
-      "remain_pct": 90.3
+      "remain_pct": 89.8
     },
     {
       "balance_label": "約$4.09",
@@ -73,5 +73,5 @@
       "remain_pct": 81.9
     }
   ],
-  "updated_at": "2026-11-14T06:31:32+09:00"
+  "updated_at": "2026-11-14T07:30:37+09:00"
 }

@@ -25,18 +25,18 @@
       "kind": "weekly",
       "name": "Muse",
       "note": "追加トークン 20億 残",
-      "remain_pct": 78,
+      "remain_pct": 77,
       "reset_at": "2026-11-17T12:19:00+09:00",
       "reset_label": "11月17日 12:19",
-      "used_pct": 22
+      "used_pct": 23
     },
     {
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
       "remain_pct": 100,
-      "reset_at": "2026-11-14T01:51:00+09:00",
-      "reset_label": "11月14日 01:51",
+      "reset_at": "2026-11-14T02:52:00+09:00",
+      "reset_label": "11月14日 02:52",
       "used_pct": 0
     },
     {
@@ -73,5 +73,5 @@
       "remain_pct": 81.9
     }
   ],
-  "updated_at": "2026-11-13T21:30:10+09:00"
+  "updated_at": "2026-11-13T22:30:44+09:00"
 }

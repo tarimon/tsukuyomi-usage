@@ -36,8 +36,8 @@
       "name": "Codex 5時間",
       "used_pct": 0,
       "remain_pct": 100,
-      "reset_label": "11月15日 11:52",
-      "reset_at": "2026-11-15T11:52:00+09:00"
+      "reset_label": "11月15日 12:52",
+      "reset_at": "2026-11-15T12:52:00+09:00"
     },
     {
       "id": "codex_weekly",
@@ -52,8 +52,8 @@
       "id": "claude_code",
       "kind": "credit",
       "name": "Claude Code",
-      "remain_pct": 54.2,
-      "balance_label": "$14.70",
+      "remain_pct": 50.1,
+      "balance_label": "$13.59",
       "credit_total_label": "$40"
     },
     {
@@ -73,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-15T07:30:35+09:00"
+  "updated_at": "2026-11-15T08:30:26+09:00"
 }

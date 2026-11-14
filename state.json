@@ -24,54 +24,54 @@
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "note": "追加トークン 20億 残",
+      "used_pct": 27,
       "remain_pct": 73,
-      "reset_at": "2026-11-17T12:19:00+09:00",
       "reset_label": "11月17日 12:19",
-      "used_pct": 27
+      "reset_at": "2026-11-17T12:19:00+09:00",
+      "note": "追加トークン 20億 残"
     },
     {
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "remain_pct": 99,
-      "reset_at": "2026-11-14T12:08:00+09:00",
-      "reset_label": "11月14日 12:08",
-      "used_pct": 1
+      "used_pct": 0,
+      "remain_pct": 100,
+      "reset_label": "11月14日 17:51",
+      "reset_at": "2026-11-14T17:51:00+09:00"
     },
     {
       "id": "codex_weekly",
       "kind": "weekly",
       "name": "Codex 週間",
+      "used_pct": 9,
       "remain_pct": 91,
-      "reset_at": "2026-11-15T22:52:00+09:00",
       "reset_label": "11月15日 22:52",
-      "used_pct": 9
+      "reset_at": "2026-11-15T22:52:00+09:00"
     },
     {
-      "balance_label": "$15.65",
-      "credit_total_label": "$40",
       "id": "claude_code",
       "kind": "credit",
       "name": "Claude Code",
-      "remain_pct": 57.7
+      "remain_pct": 57.7,
+      "balance_label": "$15.65",
+      "credit_total_label": "$40"
     },
     {
-      "balance_label": "約$8.98",
-      "credit_total_label": "$10",
       "id": "openai",
       "kind": "credit",
       "name": "OpenAI API",
-      "remain_pct": 89.8
+      "remain_pct": 89.8,
+      "balance_label": "約$8.98",
+      "credit_total_label": "$10"
     },
     {
-      "balance_label": "約$4.09",
-      "credit_total_label": "$5.00",
       "id": "xai",
       "kind": "credit",
       "name": "xAI API",
-      "remain_pct": 81.9
+      "remain_pct": 81.9,
+      "balance_label": "約$4.09",
+      "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-14T12:30:48+09:00"
+  "updated_at": "2026-11-14T13:30:57+09:00"
 }

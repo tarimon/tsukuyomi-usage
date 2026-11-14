@@ -24,8 +24,8 @@
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 29,
-      "remain_pct": 71,
+      "used_pct": 30,
+      "remain_pct": 70,
       "reset_label": "11月17日 12:19",
       "reset_at": "2026-11-17T12:19:00+09:00",
       "note": "追加トークン 20億 残"
@@ -73,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-14T20:30:01+09:00"
+  "updated_at": "2026-11-14T21:30:08+09:00"
 }

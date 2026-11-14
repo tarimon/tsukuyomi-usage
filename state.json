@@ -24,8 +24,8 @@
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 28,
-      "remain_pct": 72,
+      "used_pct": 29,
+      "remain_pct": 71,
       "reset_label": "11月17日 12:19",
       "reset_at": "2026-11-17T12:19:00+09:00",
       "note": "追加トークン 20億 残"
@@ -60,8 +60,8 @@
       "id": "openai",
       "kind": "credit",
       "name": "OpenAI API",
-      "remain_pct": 89.8,
-      "balance_label": "約$8.98",
+      "remain_pct": 88.3,
+      "balance_label": "約$8.83",
       "credit_total_label": "$10"
     },
     {
@@ -73,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-14T19:30:57+09:00"
+  "updated_at": "2026-11-14T20:30:01+09:00"
 }

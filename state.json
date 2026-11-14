@@ -36,8 +36,8 @@
       "name": "Codex 5時間",
       "used_pct": 0,
       "remain_pct": 100,
-      "reset_label": "11月14日 19:51",
-      "reset_at": "2026-11-14T19:51:00+09:00"
+      "reset_label": "11月14日 20:51",
+      "reset_at": "2026-11-14T20:51:00+09:00"
     },
     {
       "id": "codex_weekly",
@@ -73,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-14T15:29:46+09:00"
+  "updated_at": "2026-11-14T16:30:38+09:00"
 }

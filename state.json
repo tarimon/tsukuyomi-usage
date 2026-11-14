@@ -49,12 +49,12 @@
       "used_pct": 9
     },
     {
-      "balance_label": "$15.79",
+      "balance_label": "$15.65",
       "credit_total_label": "$40",
       "id": "claude_code",
       "kind": "credit",
       "name": "Claude Code",
-      "remain_pct": 58.2
+      "remain_pct": 57.7
     },
     {
       "balance_label": "約$8.98",
@@ -73,5 +73,5 @@
       "remain_pct": 81.9
     }
   ],
-  "updated_at": "2026-11-14T08:30:16+09:00"
+  "updated_at": "2026-11-14T09:30:10+09:00"
 }

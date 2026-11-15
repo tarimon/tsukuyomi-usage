@@ -34,16 +34,17 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "used_pct": 14,
-      "remain_pct": 86,
-      "reset_label": "11月15日 18:02"
+      "used_pct": 9,
+      "remain_pct": 91,
+      "reset_label": "11月15日 23:20",
+      "reset_at": "2026-11-15T23:20:00+09:00"
     },
     {
       "id": "codex_weekly",
       "kind": "weekly",
       "name": "Codex 週間",
-      "used_pct": 21,
-      "remain_pct": 79,
+      "used_pct": 22,
+      "remain_pct": 78,
       "reset_label": "11月15日 22:52",
       "reset_at": "2026-11-15T22:52:00+09:00"
     },
@@ -51,8 +52,8 @@
       "id": "claude_code",
       "kind": "credit",
       "name": "Claude Code",
-      "remain_pct": 49.1,
-      "balance_label": "$13.33",
+      "remain_pct": 47.7,
+      "balance_label": "$12.96",
       "credit_total_label": "$40"
     },
     {
@@ -72,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-15T19:30:25+09:00"
+  "updated_at": "2026-11-15T20:30:01+09:00"
 }

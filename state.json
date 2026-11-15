@@ -24,8 +24,8 @@
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 41,
-      "remain_pct": 59,
+      "used_pct": 42,
+      "remain_pct": 58,
       "reset_label": "11月17日 12:19",
       "reset_at": "2026-11-17T12:19:00+09:00",
       "note": "追加トークン 20億 残"
@@ -36,8 +36,7 @@
       "name": "Codex 5時間",
       "used_pct": 25,
       "remain_pct": 75,
-      "reset_label": "11月15日 23:20",
-      "reset_at": "2026-11-15T23:20:00+09:00"
+      "reset_label": "11月15日 23:20"
     },
     {
       "id": "codex_weekly",
@@ -45,15 +44,14 @@
       "name": "Codex 週間",
       "used_pct": 24,
       "remain_pct": 76,
-      "reset_label": "11月15日 22:52",
-      "reset_at": "2026-11-15T22:52:00+09:00"
+      "reset_label": "11月15日 22:52"
     },
     {
       "id": "claude_code",
       "kind": "credit",
       "name": "Claude Code",
-      "remain_pct": 47.7,
-      "balance_label": "$12.96",
+      "remain_pct": 45.3,
+      "balance_label": "$12.29",
       "credit_total_label": "$40"
     },
     {
@@ -73,5 +71,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-15T22:30:24+09:00"
+  "updated_at": "2026-11-15T23:30:58+09:00"
 }

@@ -24,8 +24,8 @@
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 36,
-      "remain_pct": 64,
+      "used_pct": 37,
+      "remain_pct": 63,
       "reset_label": "11月17日 12:19",
       "reset_at": "2026-11-17T12:19:00+09:00",
       "note": "追加トークン 20億 残"
@@ -34,16 +34,17 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "used_pct": 48,
-      "remain_pct": 52,
-      "reset_label": "11月15日 13:02"
+      "used_pct": 5,
+      "remain_pct": 95,
+      "reset_label": "11月15日 18:02",
+      "reset_at": "2026-11-15T18:02:00+09:00"
     },
     {
       "id": "codex_weekly",
       "kind": "weekly",
       "name": "Codex 週間",
-      "used_pct": 18,
-      "remain_pct": 82,
+      "used_pct": 19,
+      "remain_pct": 81,
       "reset_label": "11月15日 22:52",
       "reset_at": "2026-11-15T22:52:00+09:00"
     },
@@ -59,8 +60,8 @@
       "id": "openai",
       "kind": "credit",
       "name": "OpenAI API",
-      "remain_pct": 88.3,
-      "balance_label": "約$8.83",
+      "remain_pct": 87.8,
+      "balance_label": "約$8.78",
       "credit_total_label": "$10"
     },
     {
@@ -72,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-15T13:30:42+09:00"
+  "updated_at": "2026-11-15T14:30:35+09:00"
 }

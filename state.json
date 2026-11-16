@@ -52,8 +52,8 @@
       "id": "claude_code",
       "kind": "credit",
       "name": "Claude Code",
-      "remain_pct": 45.3,
-      "balance_label": "$12.29",
+      "remain_pct": 44.3,
+      "balance_label": "$12.02",
       "credit_total_label": "$40"
     },
     {
@@ -73,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-16T18:30:35+09:00"
+  "updated_at": "2026-11-16T19:30:15+09:00"
 }

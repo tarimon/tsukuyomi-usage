@@ -34,17 +34,17 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "used_pct": 27,
-      "remain_pct": 73,
-      "reset_label": "11月16日 15:10",
-      "reset_at": "2026-11-16T15:10:00+09:00"
+      "used_pct": 1,
+      "remain_pct": 99,
+      "reset_label": "11月16日 20:16",
+      "reset_at": "2026-11-16T20:16:00+09:00"
     },
     {
       "id": "codex_weekly",
       "kind": "weekly",
       "name": "Codex 週間",
-      "used_pct": 12,
-      "remain_pct": 88,
+      "used_pct": 13,
+      "remain_pct": 87,
       "reset_label": "11月22日 23:28",
       "reset_at": "2026-11-22T23:28:00+09:00"
     },
@@ -73,5 +73,5 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-16T15:30:25+09:00"
+  "updated_at": "2026-11-16T16:30:30+09:00"
 }

@@ -73,7 +73,7 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-18T00:31:35.926505+09:00",
+  "updated_at": "2026-11-18T01:31:03.064083+09:00",
   "icons": {
     "muse": {
       "file": "icon-muse.b64",
@@ -92,6 +92,12 @@
       "stamp": "9db64f2b4ff2",
       "file_96": "icon-openai-96.b64",
       "file_64": "icon-openai-64.b64"
+    },
+    "claudepro": {
+      "file": "icon-claudepro.b64",
+      "stamp": "225799e5e15d",
+      "file_96": "icon-claudepro-96.b64",
+      "file_64": "icon-claudepro-64.b64"
     }
   }
 }

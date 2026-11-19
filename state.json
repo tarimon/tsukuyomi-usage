@@ -4,8 +4,8 @@
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 12,
-      "remain_pct": 88,
+      "used_pct": 13,
+      "remain_pct": 87,
       "reset_label": "11月24日 12:21",
       "reset_at": "2026-11-24T12:21:00+09:00",
       "note": "追加トークン 20億 残"
@@ -33,8 +33,8 @@
       "name": "Claude Pro",
       "used_pct": 22,
       "remain_pct": 78,
-      "reset_label": "11月19日 16:19",
-      "reset_at": "2026-11-19T16:19:00+09:00",
+      "reset_label": "11月19日 16:20",
+      "reset_at": "2026-11-19T16:20:00+09:00",
       "note": ""
     },
     {
@@ -43,8 +43,8 @@
       "name": "Claude Pro",
       "used_pct": 16,
       "remain_pct": 84,
-      "reset_label": "11月23日 18:59",
-      "reset_at": "2026-11-23T18:59:00+09:00",
+      "reset_label": "11月23日 19:00",
+      "reset_at": "2026-11-23T19:00:00+09:00",
       "note": ""
     },
     {
@@ -72,7 +72,7 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-19T12:31:10.538023+09:00",
+  "updated_at": "2026-11-19T13:31:28.472676+09:00",
   "icons": {
     "muse": {
       "file": "icon-muse.b64",

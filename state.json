@@ -59,8 +59,8 @@
       "id": "openai",
       "kind": "credit",
       "name": "OpenAI API",
-      "remain_pct": 87.2,
-      "balance_label": "約$8.72",
+      "remain_pct": 86.5,
+      "balance_label": "約$8.65",
       "credit_total_label": "$10"
     },
     {
@@ -72,7 +72,7 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-20T15:30:21.405953+09:00",
+  "updated_at": "2026-11-20T16:30:33.634878+09:00",
   "icons": {
     "muse": {
       "file": "icon-muse.b64",

@@ -34,8 +34,8 @@
       "name": "Claude Pro",
       "used_pct": 2,
       "remain_pct": 98,
-      "reset_label": "11月21日 02:50",
-      "reset_at": "2026-11-21T02:50:00+09:00",
+      "reset_label": "11月21日 02:49",
+      "reset_at": "2026-11-21T02:49:00+09:00",
       "note": ""
     },
     {
@@ -44,8 +44,8 @@
       "name": "Claude Pro",
       "used_pct": 16,
       "remain_pct": 84,
-      "reset_label": "11月23日 19:00",
-      "reset_at": "2026-11-23T19:00:00+09:00",
+      "reset_label": "11月23日 18:59",
+      "reset_at": "2026-11-23T18:59:00+09:00",
       "note": ""
     },
     {
@@ -73,7 +73,7 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-21T01:30:57.750794+09:00",
+  "updated_at": "2026-11-21T02:30:38.074554+09:00",
   "icons": {
     "muse": {
       "file": "icon-muse.b64",

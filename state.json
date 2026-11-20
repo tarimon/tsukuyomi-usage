@@ -14,8 +14,8 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "used_pct": 21,
-      "remain_pct": 79,
+      "used_pct": 26,
+      "remain_pct": 74,
       "reset_label": "11月21日 09:20",
       "reset_at": "2026-11-21T09:20:00+09:00"
     },
@@ -73,7 +73,7 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-21T07:30:40.982417+09:00",
+  "updated_at": "2026-11-21T08:30:43.622465+09:00",
   "icons": {
     "muse": {
       "file": "icon-muse.b64",

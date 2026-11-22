@@ -4,8 +4,8 @@
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 40,
-      "remain_pct": 60,
+      "used_pct": 41,
+      "remain_pct": 59,
       "reset_label": "11月24日 12:21",
       "reset_at": "2026-11-24T12:21:00+09:00",
       "note": "追加トークン 20億 残"
@@ -16,8 +16,8 @@
       "name": "Codex 5時間",
       "used_pct": 0,
       "remain_pct": 100,
-      "reset_label": "11月22日 15:52",
-      "reset_at": "2026-11-22T15:52:00+09:00"
+      "reset_label": "11月22日 16:52",
+      "reset_at": "2026-11-22T16:52:00+09:00"
     },
     {
       "id": "codex_weekly",
@@ -32,10 +32,8 @@
       "id": "claudepro_5h",
       "kind": "window",
       "name": "Claude Pro",
-      "used_pct": 31,
-      "remain_pct": 69,
-      "reset_label": "11月22日 12:20",
-      "reset_at": "2026-11-22T12:20:00+09:00",
+      "used_pct": 0,
+      "remain_pct": 100,
       "note": ""
     },
     {
@@ -44,8 +42,8 @@
       "name": "Claude Pro",
       "used_pct": 19,
       "remain_pct": 81,
-      "reset_label": "11月23日 19:00",
-      "reset_at": "2026-11-23T19:00:00+09:00",
+      "reset_label": "11月23日 18:59",
+      "reset_at": "2026-11-23T18:59:00+09:00",
       "note": ""
     },
     {
@@ -73,7 +71,7 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-22T11:30:59.326663+09:00",
+  "updated_at": "2026-11-22T12:31:56.375404+09:00",
   "icons": {
     "muse": {
       "file": "icon-muse.b64",

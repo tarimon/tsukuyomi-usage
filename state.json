@@ -16,8 +16,8 @@
       "name": "Codex 5時間",
       "used_pct": 0,
       "remain_pct": 100,
-      "reset_label": "11月22日 13:52",
-      "reset_at": "2026-11-22T13:52:00+09:00"
+      "reset_label": "11月22日 15:52",
+      "reset_at": "2026-11-22T15:52:00+09:00"
     },
     {
       "id": "codex_weekly",
@@ -32,8 +32,8 @@
       "id": "claudepro_5h",
       "kind": "window",
       "name": "Claude Pro",
-      "used_pct": 25,
-      "remain_pct": 75,
+      "used_pct": 31,
+      "remain_pct": 69,
       "reset_label": "11月22日 12:20",
       "reset_at": "2026-11-22T12:20:00+09:00",
       "note": ""
@@ -73,7 +73,7 @@
       "credit_total_label": "$5.00"
     }
   ],
-  "updated_at": "2026-11-22T10:30:42.240959+09:00",
+  "updated_at": "2026-11-22T11:30:59.326663+09:00",
   "icons": {
     "muse": {
       "file": "icon-muse.b64",

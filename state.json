@@ -31,47 +31,48 @@
       "kind": "weekly",
       "name": "Muse",
       "note": "追加トークン 20億 残",
-      "remain_pct": 43,
+      "remain_pct": 42,
       "reset_at": "2026-11-24T12:21:00+09:00",
       "reset_label": "11月24日 12:21",
-      "used_pct": 57
+      "used_pct": 58
     },
     {
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "remain_pct": 100,
-      "reset_at": "2026-11-24T02:51:00+09:00",
-      "reset_label": "11月24日 02:51",
-      "used_pct": 0
+      "remain_pct": 96,
+      "reset_at": "2026-11-24T03:06:00+09:00",
+      "reset_label": "11月24日 03:06",
+      "used_pct": 4
     },
     {
       "id": "codex_weekly",
       "kind": "weekly",
       "name": "Codex 週間",
-      "remain_pct": 92,
+      "remain_pct": 91,
       "reset_at": "2026-11-29T23:36:00+09:00",
       "reset_label": "11月29日 23:36",
-      "used_pct": 8
+      "used_pct": 9
     },
     {
       "id": "claudepro_5h",
       "kind": "window",
       "name": "Claude Pro",
       "note": "",
-      "remain_pct": 100,
-      "reset_label": "",
-      "used_pct": 0
+      "remain_pct": 96,
+      "reset_at": "2026-11-24T03:40:00+09:00",
+      "reset_label": "11月24日 03:40",
+      "used_pct": 4
     },
     {
       "id": "claudepro_weekly",
       "kind": "weekly",
       "name": "Claude Pro",
       "note": "",
-      "remain_pct": 79,
-      "reset_at": "2026-11-23T19:00:00+09:00",
-      "reset_label": "11月23日 19:00",
-      "used_pct": 21
+      "remain_pct": 100,
+      "reset_at": "2026-11-30T19:00:00+09:00",
+      "reset_label": "11月30日 19:00",
+      "used_pct": 0
     },
     {
       "id": "claude_code",
@@ -98,5 +99,5 @@
       "remain_pct": 80.3
     }
   ],
-  "updated_at": "2026-11-23T22:30:37+09:00"
+  "updated_at": "2026-11-23T23:30:53+09:00"
 }

@@ -40,19 +40,18 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "remain_pct": 87,
-      "reset_at": "2026-11-24T03:06:00+09:00",
-      "reset_label": "11月24日 03:06",
-      "used_pct": 13
+      "remain_pct": 85,
+      "used_pct": 15,
+      "reset_label": "11月24日 03:06"
     },
     {
       "id": "codex_weekly",
       "kind": "weekly",
       "name": "Codex 週間",
-      "remain_pct": 90,
+      "remain_pct": 89,
+      "used_pct": 11,
       "reset_at": "2026-11-29T23:36:00+09:00",
-      "reset_label": "11月29日 23:36",
-      "used_pct": 10
+      "reset_label": "11月29日 23:36"
     },
     {
       "id": "claudepro_5h",
@@ -60,9 +59,9 @@
       "name": "Claude Pro",
       "note": "",
       "remain_pct": 96,
-      "reset_at": "2026-11-24T03:39:00+09:00",
-      "reset_label": "11月24日 03:39",
-      "used_pct": 4
+      "used_pct": 4,
+      "reset_at": "2026-11-24T03:40:00+09:00",
+      "reset_label": "11月24日 03:40"
     },
     {
       "id": "claudepro_weekly",
@@ -70,9 +69,9 @@
       "name": "Claude Pro",
       "note": "",
       "remain_pct": 100,
-      "reset_at": "2026-11-30T18:59:00+09:00",
-      "reset_label": "11月30日 18:59",
-      "used_pct": 0
+      "used_pct": 0,
+      "reset_at": "2026-11-30T19:00:00+09:00",
+      "reset_label": "11月30日 19:00"
     },
     {
       "id": "claude_code",
@@ -99,5 +98,5 @@
       "remain_pct": 80.3
     }
   ],
-  "updated_at": "2026-11-24T02:31:17+09:00"
+  "updated_at": "2026-11-24T03:31:21+09:00"
 }

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T22:30:31.614719+09:00",
+  "updated_at": "2026-11-24T23:30:35.678738+09:00",
   "services": [
     {
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 3,
-      "remain_pct": 97,
+      "used_pct": 4,
+      "remain_pct": 96,
       "reset_label": "12月1日 12:21",
       "note": "追加トークン 20億 残",
       "reset_at": "2026-12-01T12:21:00+09:00"
@@ -69,8 +69,8 @@
       "id": "xai",
       "kind": "credit",
       "name": "xAI API",
-      "remain_pct": 80.3,
-      "balance_label": "約$4.01",
+      "remain_pct": 79.7,
+      "balance_label": "約$3.98",
       "credit_total_label": "$5.00"
     }
   ],

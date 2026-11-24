@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T01:30:27.523906+09:00",
+  "updated_at": "2026-11-25T02:31:08.113545+09:00",
   "services": [
     {
       "id": "muse",
@@ -33,11 +33,10 @@
       "id": "claudepro_5h",
       "kind": "window",
       "name": "Claude Pro",
-      "used_pct": 4,
-      "remain_pct": 96,
-      "reset_label": "11月25日 01:59",
-      "note": "",
-      "reset_at": "2026-11-25T01:59:00+09:00"
+      "used_pct": 0,
+      "remain_pct": 100,
+      "reset_label": "",
+      "note": ""
     },
     {
       "id": "claudepro_weekly",

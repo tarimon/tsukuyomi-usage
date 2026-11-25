@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T13:30:59.583308+09:00",
+  "updated_at": "2026-11-25T14:30:49.806164+09:00",
   "services": [
     {
       "id": "muse",
@@ -44,9 +44,9 @@
       "name": "Claude Pro",
       "used_pct": 2,
       "remain_pct": 98,
-      "reset_label": "11月30日 18:59",
+      "reset_label": "11月30日 19:00",
       "note": "",
-      "reset_at": "2026-11-30T18:59:00+09:00"
+      "reset_at": "2026-11-30T19:00:00+09:00"
     },
     {
       "id": "claude_code",

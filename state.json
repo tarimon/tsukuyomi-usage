@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-26T12:30:35.172095+09:00",
+  "updated_at": "2026-11-26T13:31:11.677225+09:00",
   "services": [
     {
       "id": "muse",
       "kind": "weekly",
       "name": "Muse",
-      "used_pct": 18,
-      "remain_pct": 82,
+      "used_pct": 19,
+      "remain_pct": 81,
       "reset_label": "12月1日 12:21",
       "note": "追加トークン 20億 残",
       "reset_at": "2026-12-01T12:21:00+09:00"

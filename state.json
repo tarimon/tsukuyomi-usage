@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T18:30:52.959176+09:00",
+  "updated_at": "2026-11-27T19:30:38.504474+09:00",
   "services": [
     {
       "id": "muse",
@@ -15,8 +15,8 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "used_pct": 38,
-      "remain_pct": 62,
+      "used_pct": 40,
+      "remain_pct": 60,
       "reset_label": "11月27日 19:22",
       "reset_at": "2026-11-27T19:22:00+09:00"
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:30:41.354051+09:00",
+  "updated_at": "2026-11-27T10:30:22.990860+09:00",
   "services": [
     {
       "id": "muse",
@@ -15,17 +15,17 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "used_pct": 0,
-      "remain_pct": 100,
-      "reset_label": "11月27日 13:51",
-      "reset_at": "2026-11-27T13:51:00+09:00"
+      "used_pct": 3,
+      "remain_pct": 97,
+      "reset_label": "11月27日 14:16",
+      "reset_at": "2026-11-27T14:16:00+09:00"
     },
     {
       "id": "codex_weekly",
       "kind": "weekly",
       "name": "Codex 週間",
-      "used_pct": 47,
-      "remain_pct": 53,
+      "used_pct": 48,
+      "remain_pct": 52,
       "reset_label": "11月29日 23:36",
       "reset_at": "2026-11-29T23:36:00+09:00"
     },

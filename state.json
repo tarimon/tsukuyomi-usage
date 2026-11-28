@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T17:30:30.897217+09:00",
+  "updated_at": "2026-11-28T18:30:39.908135+09:00",
   "services": [
     {
       "id": "muse",
@@ -15,8 +15,8 @@
       "id": "codex_5h",
       "kind": "window",
       "name": "Codex 5時間",
-      "used_pct": 5,
-      "remain_pct": 95,
+      "used_pct": 7,
+      "remain_pct": 93,
       "reset_label": "11月28日 21:48",
       "reset_at": "2026-11-28T21:48:00+09:00"
     },
@@ -35,9 +35,9 @@
       "name": "Claude Pro",
       "used_pct": 3,
       "remain_pct": 97,
-      "reset_label": "11月28日 20:59",
+      "reset_label": "11月28日 21:00",
       "note": "",
-      "reset_at": "2026-11-28T20:59:00+09:00"
+      "reset_at": "2026-11-28T21:00:00+09:00"
     },
     {
       "id": "claudepro_weekly",
@@ -45,9 +45,9 @@
       "name": "Claude Pro",
       "used_pct": 6,
       "remain_pct": 94,
-      "reset_label": "11月30日 18:59",
+      "reset_label": "11月30日 19:00",
       "note": "",
-      "reset_at": "2026-11-30T18:59:00+09:00"
+      "reset_at": "2026-11-30T19:00:00+09:00"
     },
     {
       "id": "claude_code",
